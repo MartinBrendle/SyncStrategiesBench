@@ -1,0 +1,8 @@
+﻿<Window x:Class="ParallelDeviceUI.CASTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Copy Test" Height="600" Width="800">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel x:Name="TaskPanel" Margin="10"/>
+    </ScrollViewer>
+</Window>

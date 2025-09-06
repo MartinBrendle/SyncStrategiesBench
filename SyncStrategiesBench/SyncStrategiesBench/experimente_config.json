@@ -1,0 +1,14 @@
+{
+  "Experimente": [
+    {
+      "Name": "Experiment_DM_1000",
+      "AnzahlTasks": 1,
+      "TestZyklen": 10,
+      "MesswertvorläufeIgnorieren": false,
+      "Geraete": 1000,
+      "DarstellungsObjekte": 1000,
+      "DatenBasisObjekte": 1000,
+      "Aufzeichner": 1000
+    }
+  ]
+}
